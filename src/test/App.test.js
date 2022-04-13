@@ -44,7 +44,7 @@ const pages = [
   },
   {
     route: '/resume',
-    heading: 'Resume',
+    heading: 'CV',
     component: Resume,
   },
 ];
