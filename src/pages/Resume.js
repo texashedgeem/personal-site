@@ -24,7 +24,7 @@ const sections = [
 
 const Resume = () => (
   <Main
-    title="Resume"
+    title="CV"
     description="Simon Hewins CV"
   >
     <article className="post" id="resume">
