@@ -3,24 +3,29 @@
 
 const skills = [
   {
+    title: 'Incident Management',
+    competency: 5,
+    category: ['Web Development', 'Databases', 'Languages'],
+  },
+  {
+    title: 'Bash',
+    competency: 3,
+    category: ['Tools', 'Languages'],
+  },
+  {
     title: 'Javascript',
-    competency: 4,
+    competency: 1,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
     title: 'Node.JS',
-    competency: 3,
+    competency: 1,
     category: ['Web Development', 'Javascript'],
   },
   {
     title: 'React',
-    competency: 3,
+    competency: 1,
     category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Bash',
-    competency: 2,
-    category: ['Tools', 'Languages'],
   },
   {
     title: 'Amazon Web Services',
@@ -34,12 +39,12 @@ const skills = [
   },
   {
     title: 'MongoDB',
-    competency: 3,
+    competency: 0,
     category: ['Web Development', 'Databases'],
   },
   {
     title: 'ElasticSearch',
-    competency: 2,
+    competency: 0,
     category: ['Web Development', 'Databases'],
   },
   {
