@@ -24,7 +24,7 @@ const About = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/about">About Me</Link></h2>
-          <p>(in about {count} words)</p>
+          <p>In exactly {count} words :)  ... Go ahead count! to validate this React code.</p>
         </div>
       </header>
       <ReactMarkdown

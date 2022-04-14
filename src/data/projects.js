@@ -1,47 +1,38 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'React Demo - Personal Profile',
+    subtitle: 'Developer on React, Auto hosted on Git Pages .',
+    image: '/images/projects/personal-profile.png',
+    date: '2022-04-1',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Created this React personal profile using a template from forked from MICHAEL D`ANGELO'
+      + 'Create to demo speed I can pick up new technolgies.'
+      + 'I learn through doing - typically by following in the footsteps of others to not re-invent the wheel',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
-  },
-  {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  },
-  {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
+    title: 'Texas HedgeEm',
+    subtitle: 'A online, real-money gambling game based on Texas Holdem poker.',
+    image: '/images/projects/texas-hedgeem.png',
     date: '2015-05-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Designed, developed, implemented, branded, promoted and hosted Texas Hedge’Em® an online card game based on the mathematically probability of events occurring. Submitted US Patent and secured UK Trade Mark. Presented to multiple C-level executives securing development on professional platform'
+      + '£2m in place bets in first year.'
+      + 'Still live in many online casinos'
+      + 'I will not be retiring on this - the industry is fierce - read more in my post about this.',
+  },
+  {
+    title: 'Schemation',
+    subtitle: 'CI/CD before this was even a thing',
+    image: '/images/projects/schemation.jpg',
+    date: '2002-05-15',
+    desc:
+      'Built a full CI/CD DevOps pipeline before this terms even existed '
+      + 'The original product supported an 80+ development team that build the original .gov.uk website'
+      + 'Every developer had there own environment including an Oracle schema - which was quiet novel at the time'
+      + 'Whilst the project was a technical success, it was a commercial failure as we the four founders spent too much effort on the tech and not enough on the commercials'
+      + 'We have retired the product now, but it is still available to anyone who asks.'
+      + 'Fun fact: We called our early builds Batman builds because they build over night! ',
   },
 ];
 

@@ -15,6 +15,7 @@ const Index = () => (
           <p>
             A beautiful, responsive, statically-generated,
             react application written with modern Javascript.
+            Credit to Michael.l.Dangelo as I have forked his work :)
           </p>
         </div>
       </header>
@@ -25,7 +26,7 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
+      <p> Source available <a href="https://github.com/texashedgeem/personal-site">here</a>.</p>
     </article>
   </Main>
 );
