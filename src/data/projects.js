@@ -2,11 +2,11 @@
 const data = [
   {
     title: 'Open Banking - Live Testing Service',
-    subtitle: 'A service that help Open Banking API and API develops get access to live bank accounts to help with testing. ',
+    subtitle: 'A service that helps Open Banking API and API developers to get access to live bank accounts to help with testing. ',
     image: '/images/projects/consentwise.png',
     date: '2022-05-1',
     desc:
-      ' This service addresses and Open Banking industry wide problem - how to test your APP of API with real/live accounts. '
+      ' This service addresses an Open Banking industry wide problem - how to test your APP or API with real/live accounts. '
       + 'See http://qeetoto.com',
   },
   {
