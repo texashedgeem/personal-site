@@ -1,7 +1,14 @@
-// TODO: Add Athletic Skills, Office Skills,
-// Data Engineering, Data Science, ML Engineering, ... ?
-
 const skills = [
+  {
+    title: 'Global Application Support Team Management',
+    competency: 5,
+    category: ['ITIL'],
+  },
+  {
+    title: 'ITIL Appliction Support',
+    competency: 5,
+    category: ['ITIL'],
+  },
   {
     title: 'Incident Management',
     competency: 5,
@@ -18,27 +25,47 @@ const skills = [
     category: ['ITIL'],
   },
   {
-    title: 'Javascript',
+    title: 'Jira Service Desk',
+    competency: 5,
+    category: ['ITIL', 'Service Desk'],
+  },
+  {
+    title: 'Zendesk',
+    competency: 5,
+    category: ['ITIL', 'Service Desk'],
+  },
+  {
+    title: 'Freshdesk',
     competency: 4,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    category: ['ITIL', 'Service Desk'],
   },
   {
-    title: 'Node.JS',
-    competency: 0,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'React',
+    title: 'Salesforce',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['ITIL', 'Service Desk'],
   },
   {
-    title: 'Bash',
-    competency: 2,
-    category: ['Tools', 'Languages'],
+    title: 'ITRS / Geneos',
+    competency: 3,
+    category: ['ITIL', 'Service Desk'],
   },
   {
-    title: 'Amazon Web Services',
+    title: 'PagerDuty',
+    competency: 3,
+    category: ['ITIL', 'Service Desk'],
+  },
+  {
+    title: 'Incident.io',
+    competency: 3,
+    category: ['ITIL'],
+  },
+  {
+    title: 'Rootly',
+    competency: 3,
+    category: ['ITIL'],
+  },
+  {
+    title: 'Amazon Web Services (AWS)',
     competency: 2,
     category: ['Cloud'],
   },
@@ -53,29 +80,34 @@ const skills = [
     category: ['Cloud'],
   },
   {
-    title: 'Heroku',
-    competency: 2,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'MongoDB',
+    title: 'Relational Databases Oracle/PostgreSQL/SQLite3/SQL',
     competency: 3,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'ElasticSearch',
-    competency: 2,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'PostgreSQL/SQLite3/SQL',
-    competency: 4,
     category: ['Web Development', 'Databases', 'Languages'],
   },
   {
-    title: 'Redis',
+    title: 'No SQL Databases: Mongo/Redis/Cassandra etc',
     competency: 1,
-    category: ['Web Development', 'Databases'],
+    category: ['Web Development', 'Databases', 'Languages'],
+  },
+  {
+    title: 'Bash',
+    competency: 4,
+    category: ['Tools', 'Languages'],
+  },
+  {
+    title: 'C#',
+    competency: 2,
+    category: ['Languages'],
+  },
+  {
+    title: 'Javascript',
+    competency: 1,
+    category: ['Web Development', 'Languages', 'Javascript'],
+  },
+  {
+    title: 'React',
+    competency: 1,
+    category: ['Web Development', 'Javascript'],
   },
   {
     title: 'Git/Mercurial',
@@ -85,32 +117,17 @@ const skills = [
   {
     title: 'Kubernetes',
     competency: 2,
-    category: ['Tools', 'Data Engineering'],
+    category: ['Tools'],
   },
   {
-    title: 'Google Cloud Compute',
+    title: 'HTML',
     competency: 2,
-    category: ['Tools', 'Web Development'],
-  },
-  {
-    title: 'Typescript',
-    competency: 1,
-    category: ['Web Development', 'Languages', 'Javascript'],
-  },
-  {
-    title: 'HTML + SASS/SCSS/CSS',
-    competency: 3,
     category: ['Web Development', 'Languages'],
   },
   {
     title: 'Python',
     competency: 1,
     category: ['Languages', 'Python'],
-  },
-  {
-    title: 'C++',
-    competency: 1,
-    category: ['Languages'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
