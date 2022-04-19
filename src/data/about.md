@@ -26,7 +26,7 @@ On the Gig Economy ... I love speaking to anyone about anything in this space so
 
 # Fun facts
 
-- I can pronounce one of the [longest place names in the world](https://www.nytimes.com/column/the-daily)
+- I can pronounce one of the [longest place names in the world](https://www.businessinsider.com/the-worlds-longest-place-name-has-85-letters-see-if-you-can-pronounce-it-2018-2?r=US&IR=T)
 
 # I dream of
 
