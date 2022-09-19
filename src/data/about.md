@@ -13,7 +13,7 @@ On the Gig Economy ... I love speaking to anyone about anything in this space so
 
 # I like
 
-- Pobbing.  Pobbing is a word I coined for doing anything that makes me happy.  Fun fact: My daughter thought it was a real word until the age of 17. (Sorry Eleanor!)
+- Pobbing.  Pobbing is a word I coined for doing anything that makes you happy.  Fun fact: My daughter thought it was a real word until the age of 17. (Sorry Eleanor!)
 
 
 # Travel / Geography
@@ -38,6 +38,8 @@ On the Gig Economy ... I love speaking to anyone about anything in this space so
 
 # Companies that I admire
 
+- [World Economic Forum](https://www.weforum.org/about/world-economic-forum/)
+- [Fairphone](https://www.fairphone.com/)
 - [G-Games](https://g.games/)
 
 
