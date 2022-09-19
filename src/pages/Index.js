@@ -6,7 +6,7 @@ import Main from '../layouts/Main';
 const Index = () => (
   <Main
     description={"Simon Hewins's personal website. London based Technology Manager, "
-    + 'CEO of Qeetoto'}
+    + 'Qeetoto CEO'}
   >
     <article className="post" id="index">
       <header>
