@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m <a href="https://www.linkedin.com/in/simonhewins/"> Simon </a> - the founder and CEO, at <a href="http://qeetoto.com">Qeeoto</a>.  As I have built the company I have fulfilled nearly all roles required in a start up: CTO, Architect, Engineer, Manager, Developer, Designer, DevOps Lead, and all other possible roles.   I and my collegues like building things and connecting with people like you.  We are a close network of like-minded people who enjoy working on technology projects outside of our regular day-job.  If this sounds like something that interests you then please message me and lets have a chat.
+      <p>Hi, I&apos;m <a href="https://www.linkedin.com/in/simonhewins/"> Simon </a> - the founder and CEO, at <a href="http://qeetoto.com">Qeetoto</a>.  As I have built the company I have fulfilled nearly all roles required in a start up: CTO, Architect, Engineer, Manager, Developer, Designer, DevOps Lead, and all other possible roles.   I and my collegues like building things and connecting with people like you.  We are a close network of like-minded people who enjoy working on technology projects outside of our regular day-job.  If this sounds like something that interests you then please message me and lets have a chat.
       </p>
       <ul className="actions">
         <li>
