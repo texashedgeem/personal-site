@@ -18,9 +18,9 @@ On the Gig Economy ... I love speaking to anyone about anything in this space so
 
 # Travel / Geography
 
-- In 1968, Born in Farnborogh, Hampshire, United Kingdom
+- In 1968, Born in Farnborogh, Hampshire, United Kingdom.
 - In 1972, Moved to Basildon, Essex, UK. (All though I would not have known as I was only four.)
-- In 1997, Spent a year in Corvalis, Oregon, US. This was part of my year exchange program with University
+- In 1997, Spent a year in Corvalis, Oregon, US. This was part of my year exchange program with University.
 - In 2001, Moved to Bishops Stortford, Hertfordshire, UK.
 - In 2022, I still live in Bishops Stortford and am not looking to move any time soon :).
 
@@ -38,11 +38,11 @@ On the Gig Economy ... I love speaking to anyone about anything in this space so
 
 # Companies that I admire
 
--- [World Economic Forum](https://www.weforum.org/about/world-economic-forum/) Absolutely every post is truly inspirational and boost my faith in humanity
-- [Fairphone](https://www.fairphone.com/) - A fantasitc, well designed, and engineered sustainable product that does not compromise on functionality or quality
+- [World Economic Forum](https://www.weforum.org/about/world-economic-forum/) Absolutely every post is truly inspirational and boost my faith in humanity
+- [Fairphone](https://www.fairphone.com/) A fantasitc, well designed, and engineered sustainable product that does not compromise on functionality or quality
 - [G-Games](https://g.games/) - Its what Qeetoto should have been had I executed better.
 
-And from people I know of have built themselves
+And from people I know that either (1) Have built from a 'Passion Projects', (2) Just has a great product, (3) Is a throughly decent person or company or >best of all< matches all of these.
 - [Visit Horsham](https://www.visithorsham.co.uk/)
 - [RedKoi](https://redkoi.co.uk/)
 - [Wisdom Made Easy](https://www.instagram.com/wisdommadeeasy/)
