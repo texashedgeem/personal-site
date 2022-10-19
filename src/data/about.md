@@ -38,14 +38,14 @@ On the Gig Economy ... I love speaking to anyone about anything in this space so
 
 # Companies that I admire
 
-## [World Economic Forum](https://www.weforum.org/about/world-economic-forum/) Absolutely every post is truly inspirational and boost my faith in humanity
-## [Fairphone](https://www.fairphone.com/) - A fantasitc, well designed, and engineered sustainable product that does not compromise on functionality or quality
-## [G-Games](https://g.games/) - Its what Qeetoto should have been had I executed better.
+-- [World Economic Forum](https://www.weforum.org/about/world-economic-forum/) Absolutely every post is truly inspirational and boost my faith in humanity
+- [Fairphone](https://www.fairphone.com/) - A fantasitc, well designed, and engineered sustainable product that does not compromise on functionality or quality
+- [G-Games](https://g.games/) - Its what Qeetoto should have been had I executed better.
 
 And from people I know of have built themselves
-## [Visit Horsham](https://www.visithorsham.co.uk/)
-## [RedKoi](https://redkoi.co.uk/)
-## [Wisdom Made Easy](https://www.instagram.com/wisdommadeeasy/)
+- [Visit Horsham](https://www.visithorsham.co.uk/)
+- [RedKoi](https://redkoi.co.uk/)
+- [Wisdom Made Easy](https://www.instagram.com/wisdommadeeasy/)
 
 
 
