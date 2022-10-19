@@ -3,9 +3,9 @@
 
 I am a regular guy - married with two grown-up children with a mortgage and bills to pay.  
 
-Outside of my regular day job, I established Qeetoto to support various entrepreneurial business initiatives I have had over the years; the most successful of which has been Texas Hedge'Em - an online poker-based gambling game which you can read more about below. I am currently pivoting Qeetoto to support workers in the Gig economy, which I shall post more on later. 
+Outside of my regular day job, I established Qeetoto to support various entrepreneurial business initiatives I have had over the years; the two most successful of which have been Texas Hedge'Em - an online poker-based gambling game and ConsentWise.io - An Open Banking Testing and Consultancy Service. I am currently working on another Qeetoto project to create a community to support workers in the Gig Economy.  I shall post more about this later but if you are interested now, please message me.
 
-On the Gig Economy ... I love speaking to anyone about anything in this space so, if you share this interest, or would like to work together on a project with me or my colleagues, please ping me on LinkedIn and let's chat.
+On the Gig Economy ... I love speaking to anyone about anything in this space so, if you share this interest, or have a 'Passion Project' that you would like to collaborate on with me or my colleagues, please connect with me on LinkedIn and let's chat.
 
 # Some history
 
@@ -22,6 +22,7 @@ On the Gig Economy ... I love speaking to anyone about anything in this space so
 - In 1972, Moved to Basildon, Essex, UK. (All though I would not have known as I was only four.)
 - In 1997, Spent a year in Corvalis, Oregon, US. This was part of my year exchange program with University
 - In 2001, Moved to Bishops Stortford, Hertfordshire, UK.
+- In 2022, I still live in Bishops Stortford and am not looking to move any time soon :).
 
 
 # Fun facts
@@ -30,16 +31,24 @@ On the Gig Economy ... I love speaking to anyone about anything in this space so
 
 # I dream of
 
-- Others seeing in me what I see in myself
-- My children living long, fulfilling and happy lives
-- Being finacially indepentent
+- My children living long, fulfilling, and happy lives
+- One of my ventures enabling me to become financially independent
 - World peace (of course!)
 
 
 # Companies that I admire
 
-- [World Economic Forum](https://www.weforum.org/about/world-economic-forum/)
-- [Fairphone](https://www.fairphone.com/)
-- [G-Games](https://g.games/)
+## [World Economic Forum](https://www.weforum.org/about/world-economic-forum/) Absolutely every post is truly inspirational and boost my faith in humanity
+## [Fairphone](https://www.fairphone.com/) - A fantasitc, well designed, and engineered sustainable product that does not compromise on functionality or quality
+## [G-Games](https://g.games/) - Its what Qeetoto should have been had I executed better.
+
+And from people I know of have built themselves
+## [Visit Horsham](https://www.visithorsham.co.uk/)
+## [RedKoi](https://redkoi.co.uk/)
+## [Wisdom Made Easy](https://www.instagram.com/wisdommadeeasy/)
+
+
+
+
 
 
