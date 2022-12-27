@@ -23,6 +23,7 @@ On the Gig Economy ... I love speaking to anyone about anything in this space so
 - In 1997, Spent a year in Corvalis, Oregon, US. This was part of my year exchange program with University.
 - In 2001, Moved to Bishops Stortford, Hertfordshire, UK.
 - In 2022, I still live in Bishops Stortford and am not looking to move any time soon :).
+- 2023 is just around the corner - who knows what this will bring.  I would like to visit Machu Picchu
 
 
 # Fun facts
