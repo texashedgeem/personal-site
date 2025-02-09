@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>page1</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        #output {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Random 52 Unique Integers</h1>
+    <button onclick="generateNumbers()">Generate Numbers</button>
+    <div id="output"></div>
+
+    <script>
+        function generateNumbers() {
+            let numbers = Array.from({ length: 52 }, (_, i) => i + 1);
+            numbers.sort(() => Math.random() - 0.5);
+            document.getElementById('output').textContent = numbers.join(', ');
+        }
+    </script>
+</body>
+</html>
+
