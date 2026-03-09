@@ -11,15 +11,17 @@ const Main = (props) => (
   <HelmetProvider>
     <Analytics />
     <ScrollToTop />
-    <Helmet titleTemplate="%s | Simon Hewins" defaultTitle="Simon Hewins" defer={false}>
+    <Helmet
+      titleTemplate="%s | Simon Hewins"
+      defaultTitle="Simon Hewins"
+      defer={false}
+    >
       {props.title && <title>{props.title}</title>}
       <meta name="description" content={props.description} />
     </Helmet>
     <div id="wrapper">
       <Navigation />
-      <div id="main">
-        {props.children}
-      </div>
+      <div id="main">{props.children}</div>
       {props.fullPage ? null : <SideBar />}
     </div>
   </HelmetProvider>

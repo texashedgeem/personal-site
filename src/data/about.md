@@ -1,7 +1,6 @@
-
 # Intro
 
-I am a regular guy - married with two grown-up children with a mortgage and bills to pay.  
+I am a regular guy - married with two grown-up children with a mortgage and bills to pay.
 
 Outside of my regular day job, I established Qeetoto to support various entrepreneurial business initiatives I have had over the years; the two most successful of which have been Texas Hedge'Em - an online poker-based gambling game and ConsentWise.io - An Open Banking Testing and Consultancy Service. I am currently working on another Qeetoto project to create a community to support workers in the Gig Economy.  I shall post more about this later but if you are interested now, please message me.
 
@@ -11,7 +10,7 @@ On the Gig Economy ... I love speaking to anyone about anything in this space so
 
 - I will populate this if you ping me on LinkedIn
 
-# I like
+# I Like
 
 - Pobbing.  Pobbing is a word I coined for doing anything that makes you happy.  Fun fact: My daughter thought it was a real word until the age of 17. (Sorry Eleanor!)
 
@@ -26,11 +25,11 @@ On the Gig Economy ... I love speaking to anyone about anything in this space so
 - 2023 is just around the corner - who knows what this will bring.  I would like to visit Machu Picchu
 
 
-# Fun facts
+# Fun Facts
 
 - I can pronounce one of the [longest place names in the world](https://www.businessinsider.com/the-worlds-longest-place-name-has-85-letters-see-if-you-can-pronounce-it-2018-2?r=US&IR=T)
 
-# I dream of
+# I Dream Of
 
 - My children living long, fulfilling, and happy lives
 - One of my ventures enabling me to become financially independent
@@ -47,9 +46,3 @@ And from people I know that either (1) Have built from a 'Passion Projects', (2)
 - [Visit Horsham](https://www.visithorsham.co.uk/)
 - [RedKoi](https://redkoi.co.uk/)
 - [Wisdom Made Easy](https://www.instagram.com/wisdommadeeasy/)
-
-
-
-
-
-

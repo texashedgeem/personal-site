@@ -17,11 +17,11 @@ You may wish to fork this repository or remove my remote origin and add your own
 1. Change `homepage` in `package.json` to reflect where you plan to host the site. This is important for static exporting via react-snap. This also changes your path when developing locally. For example, a homepage of `qeetoto.com` places the site at `localhost:3000` and a homepage of `https://texashedgeem.github.io/personal-site/` places the site at `localhost:3000/personal-site/`. If you plan to host at on a path such as `https://[your-github-username].github.io/[your-repo-name]`, you should set this now so that your development environment mirrors your production environment.
 1. Create a `.env` file. To do this, run:
 
-    ```bash
-    cp sample.env .env
-    ```
+   ```bash
+   cp sample.env .env
+   ```
 
-    and set values as appropriate. Most people will not need to modify this file.
+   and set values as appropriate. Most people will not need to modify this file.
 
 ### Adapt Content
 
@@ -45,7 +45,7 @@ echo "[your-custom-domain][.com]" > public/CNAME
 
 as a shortcut.
 
-I recommend purchasing your own domain name from [Google Domains](https://domains.google). If you would like to host on github pages, run `npm run deploy`. This generates a new branch called `gh-pages`. Then go to `https://github.com/[your-github-username]/[your-repo-name]/settings` and configure accordingly:
+I recommend purchasing your own domain name from [Google Domains](https://domains.google). The project is pre-configured to automatically deploy to github pages via the deploy github action. Go to `https://github.com/[your-github-username]/[your-repo-name]/settings` and configure accordingly:
 
 <center><img src="images/gh-pages.png"></center>
 
@@ -59,32 +59,40 @@ Here are answers to questions I've been asked at least twice. I've attempted to 
 
 1. My CSS isn't rendering, or I see a 404 instead of my site:
 
+<<<<<<< HEAD
     Make sure the `homepage` field of `package.json` points to where you plan to host your site index. Also, double check that you created a `CNAME` file (see deployment instructions above). If neither of these work, please open an issue or send me an [email](mailto:help@qeetot.com).
 
 2. LF / CRLF issues with eslint.
 
     This is a common Windows development pitfall. See @[FrozenFury](https://github.com/FrozenFury)'s [comment](https://github.com/texashedgeem/personal-site/issues/263#issuecomment-759216299) for how to update your eslint config to resolve this issue.
+=======
+   Make sure the `homepage` field of `package.json` points to where you plan to host your site index. Also, double check that you created a `CNAME` file (see deployment instructions above). If neither of these work, please open an issue or send me an [email](mailto:help@mldangelo.com).
+
+2. LF / CRLF issues with eslint.
+
+   This is a common Windows development pitfall. See @[FrozenFury](https://github.com/FrozenFury)'s [comment](https://github.com/mldangelo/personal-site/issues/263#issuecomment-759216299) for how to update your eslint config to resolve this issue.
+>>>>>>> upstream/main
 
 3. master / main
 
-    Github decided to rename the default branch of all of their repositories from master to main, and so did I. See their reasoning [here](https://github.com/github/renaming). If you're trying to pull in recent changes, consider renaming your own branch, or just create a merge commit from my main.
+   Github decided to rename the default branch of all of their repositories from master to main, and so did I. See their reasoning [here](https://github.com/github/renaming). If you're trying to pull in recent changes, consider renaming your own branch, or just create a merge commit from my main.
 
 4. Google Analytics Warnings when exporting.
 
-    Either set up Google Analytics or disable the `Analytics.js` component. Read more about [react-ga](https://github.com/react-ga/react-ga).
+   Either set up Google Analytics or disable the `Analytics.js` component. Read more about [react-ga](https://github.com/react-ga/react-ga).
 
 5. How do I configure git? What is nano?
 
-    Read through [git-scm](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)'s excellent documentation. I recommend setting your default text editor to something you're comfortable with.I like to use vim for writing commit messages.
+   Read through [git-scm](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)'s excellent documentation. I recommend setting your default text editor to something you're comfortable with.I like to use vim for writing commit messages.
 
 6. Can I host at [username.github.io]?
 
-    Sure, see github's documentation [here](https://pages.github.com/). You will need to change branches. Create a new branch off of main, and configure `gh-pages` to write to main instead of a `gh-pages` branch.
+   Sure, see github's documentation [here](https://pages.github.com/).
 
 7. How do I disable eslint?
 
-    `echo "*\n" > .eslintignore` Although I really don't recommend it. Linters are good. They help prevent errors, enforce uniform style so that you can spend less time thinking about formatting and more time reading code, and eliminate easy nits for code reviews. If the rules aren't working for you, you should change them. See eslint's documentation [here](https://eslint.org/docs/about/) for more information.
+   `echo "*\n" > .eslintignore` Although I really don't recommend it. Linters are good. They help prevent errors, enforce uniform style so that you can spend less time thinking about formatting and more time reading code, and eliminate easy nits for code reviews. If the rules aren't working for you, you should change them. See eslint's documentation [here](https://eslint.org/docs/about/) for more information.
 
 8. Why is my website rendering the readme file?
 
-    See 1. above and make sure that `.nojekyll` still exists in `public`. This file directs github to not attempt to render the website with Jekyll.
+   See 1. above and make sure that `.nojekyll` still exists in `public`. This file directs github to not attempt to render the website with Jekyll.
