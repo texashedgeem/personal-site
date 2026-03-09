@@ -38,7 +38,7 @@ jobs:
           node-version-file: ".nvmrc"
           cache: "npm"
       - name: Install
-        run: npm ci
+        run: npm install
       - name: Build and Render
         shell: bash
         run: |
