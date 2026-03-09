@@ -52,6 +52,9 @@
     "sass": "^1.81.0",
     "source-map-explorer": "^2.5.3"
   },
+  "reactSnap": {
+    "puppeteerArgs": ["--no-sandbox", "--disable-setuid-sandbox"]
+  },
   "browserslist": {
     "production": [
       ">0.2%",
